@@ -1,0 +1,13 @@
+# Data files — download from Kaggle, never commit
+data/
+
+# Power BI temp files
+*.pbix.bak
+*.pbit.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
